@@ -9,7 +9,7 @@ int main()
 	int screen = 0;
 
 	//Window creation
-	sf::RenderWindow App(sf::VideoMode(640, 480, 32), "SFML - Junkyard Escape");
+	sf::RenderWindow App(sf::VideoMode(640, 480, 32), SCREEN_TITLE);
 
 	App.setMouseCursorVisible(false);
 
