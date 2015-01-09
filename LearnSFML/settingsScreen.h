@@ -25,8 +25,6 @@ int settingsScreen::Run(sf::RenderWindow &App)
 {
 	sf::Event Event;
 	bool Running = true;
-//	sf::Texture Texture;
-//	sf::Sprite Sprite;
 	int alpha = 0;
 	int selectedVideoMode = 0;
 	sf::Font Font;
@@ -36,15 +34,7 @@ int settingsScreen::Run(sf::RenderWindow &App)
 	sf::Text Menu4;
 
 	int menu = 0;
-	/*
-	if (!Texture.loadFromFile("presentation.png"))
-	{
-		std::cerr << "Error loadinig presentation.gif" << std::endl;
-		return (-1);
-	}
-	Sprite.setTexture(Texture);
-	Sprite.setColor(sf::Color(255, 255, 255, alpha));
-	*/
+
 	if (!Font.loadFromFile("verdanab.ttf"))
 	{
 		std::cerr << "Error loading verdanab.ttf" << std::endl;

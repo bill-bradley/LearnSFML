@@ -5,5 +5,6 @@
 #include "cScreen.h"
 #include "settingsScreen.h"
 #include "gameScreen.h"
+#include "welcomeScreen.h"
 
 #endif
