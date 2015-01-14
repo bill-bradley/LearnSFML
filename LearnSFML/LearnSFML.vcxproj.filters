@@ -30,6 +30,15 @@
     <ClInclude Include="Screens.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="gameScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="settingsScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="welcomescreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
