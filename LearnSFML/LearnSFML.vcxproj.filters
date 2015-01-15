@@ -47,5 +47,14 @@
     <ClCompile Include="LearnSFML.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="settingsScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="gameScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="welcomescreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
