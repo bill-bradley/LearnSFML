@@ -1,6 +1,5 @@
 #include <iostream>
 #include "cScreen.h"
-#include "Screens.h"
 #include <SFML/Graphics.hpp>
 
 class settingsScreen : public cScreen

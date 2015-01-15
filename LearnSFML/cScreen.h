@@ -2,6 +2,8 @@
 #ifndef CSCREEN_HEADER
 #define CSCREEN_HEADER
 
+#define SCREEN_TITLE "SFML - Junkyard Escape!"
+
 class cScreen
 {
 public:
